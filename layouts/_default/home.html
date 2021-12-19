@@ -1,0 +1,49 @@
+{{ partial "header.html" . }}
+
+<main class="content" role="main">
+<body style="background-color:rgb(125, 173, 145, 0.1);">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  font-size: 12px;
+}
+
+.container {
+  position: relative;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.container img {vertical-align: middle;}
+
+.container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <img src="/images/me.jpg" alt="Me" style="width:100%;">
+  <div class="content">
+    <h1 style="color: #e5e5e5; font-size: 30px">Hi, welcome! I am Sandy</h1>
+    <p>I am an early career crop scientist and an advocate of plant genetic resources for food and agriculture conservation and sustainable use. I have two years experience in rice breeding research and two years in community agricultural development advocating for the sustainable use and development of plant genetic resources using participatory approaches in the Philipines, Lao PDR, Myanmar, and Vietnam. I like to take landscape and nature photos.
+    I am also aiming to be a Pokémon master! Shoutout to my friends/colleagues, Chomsiri and Jolibe, for helping me in my experiment.</p>
+  </div>
+</div>
+
+</body>
+</main>
+
+{{ partial "footer.html" . }}

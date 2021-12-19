@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pkmnsandy</title>
+    <link>/</link>
+    <description>Recent content on pkmnsandy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi! I am Sandy Jan E. Labarosa. I am an early career crop scientist and an advocate of plant genetic resources for food and agriculture conservation and sustainable use for upholding farmers’ rights. I have two years experience in rice breeding research and two years in community agricultural development advocating for the sustainable use and development of plant genetic resources using participatory approaches in the Philipines, Lao PDR, Myanmar, and Vietnam.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Research My research interest focuses mostly on the application of population genetic tools to assess the conservation status and potential use in plant breeding of rice germplasm, including its crop-wild relatives. I am also interested in metagenomics, crop genomics and bioinformatics.
+Below are some of the research project I got involved with.
+[Master&amp;rsquo;s thesis] Assessment of microbiome diversity and structure in the rice rhizosphere The aim of this research is to assess the microbiome diversity and structure , with focus on microorganism involved in the methane cycling in flooded rice, in the rhizosphere of four rice genotypes grown in different soil types and at different fertilization rate.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Journal Articles 2021 LABAROSA, S.J., Sevilla, N., Tabanao, D., Baldo, N., Ebuña, H., &amp;amp; Jamago, J. (2021). Genetic Diversity and Structure of Oryza rufipogon Griff. Populations in the Philippines. Philippine Journal of Science, 150 (S1), 17-28.
+2020 Tin, H.Q., Loi, N.H., LABAROSA, S.J.E., McNally, K.L., McCouch, S., &amp;amp; Kilian, B. (2020). Phenotypic response of farmer-selected CWR-derived rice lines to salt stress in the Mekong Delta. Crop Science. doi:10.1002/csc2.20354
+Marcelo, V.A.C., Lipio, P.</description>
+    </item>
+    
+  </channel>
+</rss>

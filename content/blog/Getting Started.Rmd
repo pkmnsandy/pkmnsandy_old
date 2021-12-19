@@ -1,0 +1,71 @@
+---
+author: Sandy Jan Labarosa
+title: Getting Started with R and RStudio
+date: 2021-05-16
+output:
+  html_document:
+    toc_float: true
+    toc: true
+    number_sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Part I of the RBuddy series
+
+## Introduction
+
+### What is R and RStudio?
+**R** is a programming language and environment for statistical analysis and visualization. It was developed at Bell Laboratories by John Chambers and colleagues. R is an open source software and mostly preferred by scientist all around the world for statistical analysis. It can do a wide variety of statistical techniques such as linear and non-linear modeling, classical statistical tests, time-series, genomics, clustering, Bayesian statistics, etc. R can also out plots and figures that are publication-ready and are highly costumizable. For more information on what R can offer, please visit their official website (https://www.r-project.org/about.html).
+
+<center>
+<img src="/images/R_console.png" alt="R console" title="R console">
+<figcaption style="font-size:12px"><i>The R console</i></figcaption>
+</center>
+
+
+**RStudio**, on the other hand, is an integrated development environment (IDE) for R. It is like your folder of notebooks and papers it organizes your work flow effectively and efficiently. This makes working with R faster and smoother. Andrew Barr laid-out his <a href="https://www.r-bloggers.com/2013/02/top-6-reasons-you-need-to-be-using-rstudio/">Top 6 reasons why you need to be using RStudio.</a>
+
+<center>
+<img src="/images/rstudio.png" alt="RStudio" title="RStudio">
+<figcaption style="font-size:12px"><i>RStudio overview. Photo downloaded from http://www.sthda.com/sthda/RDoc/images/rstudio.png</i></figcaption>
+</center>
+
+To install R and RStudio, you can follow the guide <a href="http://www.sthda.com/english/wiki/r-basics-quick-and-easy">here</a>.
+
+## Creating your working directory
+
+After downloading R and RStudio and before starting your data analysis, it is best to set up first your working directory. This is important to have one folder in your computer to organize all your data analysis files. To set-up your working directory, just follow these few easy steps below. <i>Note: These steps are only applicable to Windows and MacOS machines</i>.
+
+Step 1. Click <i><b>File</b></i> then <i><b>New Project</b></i>
+<center>
+<img src="/images/start/Step 1.png" alt="Step 1" title="Step 1">
+</center>
+#### 
+Step 2. A pop-up window will appear then click <i><b>New Directory</b></i>
+<center>
+<img src="/images/start/Step 2.png" alt="Step 2" title="Step 2">
+</center>
+####
+Step 3. Then click <i><b>New Project</b></i>
+<center>
+<img src="/images/start/Step 3.png" alt="Step 3" title="Step 3">
+</center>
+####
+Step 4. Then, write your preferred <i><b>Directory Name</b></i> and specify the folder location to which the new directory will be saved by clicking the <i><b>Browse</b></i> button. Afterwards, select <i><b>Create Project</b></i>
+<center>
+<img src="/images/start/Step 4.png" alt="Step 4" title="Step 4">
+</center>
+####
+Now, you have successfully created your working directory. To verify this, you must be able to see a <i><b>.Rproj</b></i> file in the <i><b>Files</b></i> tab on the bottom right corner of Rstudio.
+<center>
+<img src="/images/start/Step 5.png" alt="" title="">
+</center>
+####
+If you browse to the folder location where your working directory was specifically saved, you can also find that same <i><b>.Rproj</b></i> file.
+<center>
+<img src="/images/start/Step 6.png" alt="" title="">
+</center>
+
+Once you created your working directory, it is now time for <a href="">Part II</a>.

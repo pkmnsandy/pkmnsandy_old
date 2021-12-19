@@ -1,0 +1,26 @@
+      <footer class="footer">
+        <ul class="footer-links">
+          <style>
+.footer {
+  position: sticky;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #7DAD91;
+  color: white;
+  text-align: center;
+}
+</style>
+             <p>Author: Sandy Jan Labarosa
+  <a href="mailto:sandyjanlabarosa@gmail.com">sandyjanlabarosa@gmail.com</a>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="{{ "images/hugo-logo.png" | relURL }}" alt="Img link to Hugo website" width="22" height="22"></a>
+            <a href="https://bookdown.org/yihui/blogdown/" class="footer-links-kudos">via <img src="{{ "images/blogdown.png" | relURL }}" width="22" height="24"></a>
+            &copy; 2021. All rights reserved</p>
+        </ul>
+      </footer>
+    </div>
+    {{ partial "footer_highlightjs" . }}
+    {{ partial "footer_mathjax" . }}
+    {{ template "_internal/google_analytics.html" . }}
+  </body>
+</html>
