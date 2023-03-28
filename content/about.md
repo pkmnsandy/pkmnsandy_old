@@ -7,10 +7,10 @@ comments: false
 <img src="/images/ARTS.jpg" alt="group photo" title="Group photo">
 <figcaption style="font-size:10px">ARTS group photo during the 2019 Tropentag conference at Kassel, Germany</figcaption>
 
-I am currently in Bonn, Germany, finishing up my master's program. Also, below is an overview of my educational and professional work history.
+I recently completed my master's degree in Bonn, Germany and will start my Ph.D. soon at the institute of Plant Genetics at the Heinrich-Heine Universität in Düsseldorf, Germany. Also, below is an overview of my educational and professional work history.
 
 ### **Education**
-* **MSc. Agricultural Sciences and Resource Management in the Tropics and Subtropics (ARTS)**, Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany, 2019 - present
+* **MSc. Agricultural Sciences and Resource Management in the Tropics and Subtropics (ARTS)**, Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany, 2019 - 2023
 * **Non-degree - YSEALI Academic Fellowship on Global Environmental Issues**, University of Montana, U.S.A, 2016
 * **BSc. Agriculture - Crop Science (Plant Breeding option)**, Central Mindanao University, Philippines, 2010 - 2014
 
